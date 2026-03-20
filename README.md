@@ -1,6 +1,6 @@
-## Sistema de Combate Simples em Java
+## Sistema de Combate em Java
 
-Projeto simples feito em Java para praticar conceitos de Programação Orientada a Objetos.
+Projeto feito em Java para praticar conceitos de Programação Orientada a Objetos.
 
 O código simula um pequeno sistema de combate entre um herói e um monstro em um grid. Cada personagem possui vida e pode se mover ou atacar se estiverem próximos.
 
